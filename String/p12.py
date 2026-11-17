@@ -1,4 +1,4 @@
-#to check if password is valid or not
+#to check if password is valid or not with simple program
 password= input("Enter password:")
 capital = False 
 small = False
